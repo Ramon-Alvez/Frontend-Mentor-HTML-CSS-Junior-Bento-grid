@@ -1,0 +1,12 @@
+:root{
+    --MainPrimaryColor: hsl(256, 67%, 59%); 
+    --LightPrimaryColor: hsl(254, 88%, 90%);
+    --MainSecondaryColor: hsl(39, 100%, 71%);
+    --LightSecondaryColor: hsl(31, 66%, 93%); 
+
+    --FontColor: hsl(0, 0%, 7%);
+    --LightFontColor: hsl(0, 0%, 100%);
+
+    --ParagraphSize: 1.8rem;
+    --padding: 20px;
+}
