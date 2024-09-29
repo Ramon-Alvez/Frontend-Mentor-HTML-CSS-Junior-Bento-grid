@@ -8,6 +8,7 @@ body {
     min-height: 100vh;
     align-items: center;
     justify-content: center;
+    background-color: rgb(243, 243, 243);
 }
 
 /* Main Container CONFIG */
@@ -81,6 +82,7 @@ body {
 .multiple-platforms{
     grid-area: multiple-platforms;
     padding: var(--padding);
+    background-color: #fff;
 }
 .multiple-platforms img {
     width: 100%;
@@ -142,6 +144,7 @@ body {
     flex-direction: column;
     justify-content: space-evenly;
     padding: var(--padding);
+    background-color: #fff;
 }
 .audience-growth span{
     font-weight: bolder;
